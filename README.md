@@ -30,14 +30,14 @@ Fold Enrichment overlap | Fold Enrichment TES neighborhood | Fold Enrichment TSS
 
 Номер | Эпигенетический тип | Ассоциированные гистоновые метки | Свойства
 --- | --- | --- | ---
-1 |  |  |
-2 |  |  |
-3 |  |  |
-4 |  |  |
-5 |  |  |
-6 |  |  |
+1 | Strong enhancer | H3K4m1 | H3K4m1 [ассоциирован](https://doi.org/10.1186/s12864-017-4353-7) с энхансером
+2 |  | H3K79m2 H3K4m1  |
+3 |  | H3K79m2 |
+4 | Active Promoter | H3K4m2 H3K4m3 H3K9ac H3K79m2 | H3K4me3, H3K9ac [ассоциированы](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3842134/) с активным хроматином/промотором
+5 |  | H2AFZ H3K4m2 H3K4m3 H3K9ac |
+6 |  | H2AFZ |
 7 |  |  |
-8 |  |  |
+8 | Weak transcribed |  | Большой процент в геноме
 9 |  |  |
 10 |  |  |
 
