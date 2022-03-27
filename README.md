@@ -1,4 +1,5 @@
 # hse_hw3_chromhmm
+[Ссылка на Colab](https://colab.research.google.com/drive/1IQP932OZE9tgE4FGZIPr1rw7EFuKfO2p?usp=sharing)
 ## Выборка данных
 В работе анализируются гистоновые модификации клеточной линии K562
 
@@ -15,3 +16,4 @@ H3K9ac | wgEncodeBroadHistoneK562H3k9acStdAlnRep1.bam | H3K9ac.bam
 H3K9me1 | wgEncodeBroadHistoneK562H3k9me1StdAlnRep1.bam | H3K9me1.bam
 H3K9me3 | wgEncodeBroadHistoneK562H3k9me3StdAlnRep1.bam | H3K9me3.bam
 Control | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam | Control.bam
+
