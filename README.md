@@ -14,3 +14,4 @@ H3K79me2 | wgEncodeBroadHistoneK562H3k79me2StdAlnRep1.bam | H3K79me2.bam
 H3K9ac | wgEncodeBroadHistoneK562H3k9acStdAlnRep1.bam | H3K9ac.bam
 H3K9me1 | wgEncodeBroadHistoneK562H3k9me1StdAlnRep1.bam | H3K9me1.bam
 H3K9me3 | wgEncodeBroadHistoneK562H3k9me3StdAlnRep1.bam | H3K9me3.bam
+Control | wgEncodeBroadHistoneK562ControlStdAlnRep1.bam | Control.bam
