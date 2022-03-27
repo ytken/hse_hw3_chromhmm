@@ -23,6 +23,9 @@ Fold Enrichment overlap | Fold Enrichment TES neighborhood | Fold Enrichment TSS
 --- | --- | --- | --- | ---
 ![](/ChromHMM_data/A549_10_overlap.png) |  ![](/ChromHMM_data/A549_10_RefSeqTES_neighborhood.png) | ![](/ChromHMM_data/A549_10_RefSeqTSS_neighborhood.png) |  ![](/ChromHMM_data/emissions_10.png) | ![](/ChromHMM_data/transitions_10.png)
 
+# Визуализация данных в UCSC Genome Browser
+![](UCSC_tracks.png)
+
 ## Таблица состояний
 
 Номер | Эпигенетический тип | Ассоциированные гистоновые метки | Свойства
